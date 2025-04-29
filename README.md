@@ -2,10 +2,10 @@
 
 <div align="center">
   <h1>
-🟡BEM-VINDO AO MEU PORTFÓLIO 2025🟡
+🟡EXERCÍCIO DE FUNÇÃO PARA ESTUDO🟡
   </h1>
   <h3>
-   Feito totalmente em HTML, CSS e JS.
+   Feito somente em JS. O intuito e pegar o nome e fazer a média da nota de um aluno
   </h3>
   
   [![Netlify Status](https://api.netlify.com/api/v1/badges/3d1c9e82-ede1-4a5c-a3cc-ea4c38302ca2/deploy-status)](https://gabriellorenssetti2025.netlify.app/)
