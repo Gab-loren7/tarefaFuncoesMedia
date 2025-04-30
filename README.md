@@ -5,7 +5,7 @@
 🟡EXERCÍCIO DE FUNÇÃO PARA ESTUDO🟡
   </h1>
   <h3>
-   Feito somente em JS. O intuito e pegar o nome e fazer a média da nota de um aluno
+   Feito somente em JS. O intuito é pegar o nome e fazer a média da nota de um aluno
   </h3>
 </div>
 
